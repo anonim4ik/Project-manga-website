@@ -19,6 +19,4 @@
 
 7. <a href="https://github.com/anonim4ik/Project-manga-website/blob/7.-Project-promotion-marketing-program---path/7.%20Project%20promotion%20marketing%20program.md">Маркетинговая программа по раскрутке проекта</a>
 
-8. Итоги исследования; <a href="https://github.com/anonim4ik/Project-manga-website/blob/5.-Our-business-plan-path/Our%20business%20plan.md">Наш бизнес-план</a>
-
-9. Технический проект. <a href="https://github.com/anonim4ik/Project-manga-website/blob/5.-Our-business-plan-path/Our%20business%20plan.md">Наш бизнес-план</a>
+8.<a href="https://github.com/anonim4ik/Project-manga-website/blob/8.Study-Summary---path/8.Study%20Summary.md">Итоги исследования</a>
