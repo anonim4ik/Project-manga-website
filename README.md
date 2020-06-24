@@ -13,12 +13,12 @@
 
 4. <a href="https://github.com/anonim4ik/Project-manga-website/blob/Our-team--path/Our%20team.md">Наша команда</a>
 
-5. Наш бизнес-план;
+5. <a href="https://github.com/anonim4ik/Project-manga-website/blob/5.-Our-business-plan-path/Our%20business%20plan.md">Наш бизнес-план</a>
 
-6. Аудитория проекта и ее потребности;
+6. <a href="https://github.com/anonim4ik/Project-manga-website/blob/6.-The-audience-of-the-project-and-its-needs-path/6.%20The%20audience%20of%20the%20project%20and%20its%20needs.md">Аудитория проекта и ее потребности</a>
 
-7. Маркетинговая программа по раскрутке проекта;
+7. Маркетинговая программа по раскрутке проекта; <a href="https://github.com/anonim4ik/Project-manga-website/blob/5.-Our-business-plan-path/Our%20business%20plan.md">Наш бизнес-план</a>
 
-8. Итоги исследования;
+8. Итоги исследования; <a href="https://github.com/anonim4ik/Project-manga-website/blob/5.-Our-business-plan-path/Our%20business%20plan.md">Наш бизнес-план</a>
 
-9. Технический проект.
+9. Технический проект. <a href="https://github.com/anonim4ik/Project-manga-website/blob/5.-Our-business-plan-path/Our%20business%20plan.md">Наш бизнес-план</a>
