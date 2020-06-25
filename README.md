@@ -24,3 +24,7 @@
  <a href="https://github.com/anonim4ik/Project-manga-website/blob/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-%D0%93%D0%B0%D0%BD%D1%82%D0%B0-patch-1/Zt0vj7_wmeU.jpg">Диаграмма Гранта</a>
 
  <a href="https://trello.com/b/Jvvy6W0j/mangawebsite">Ссылка на методику Agile (Trello)</a>
+
+ <a href="https://github.com/anonim4ik/Project-manga-website/blob/AlbertEsenin-Trello-patch-1/%D0%9E%D0%A3%D0%95.jpg">Скриншот Trello 1</a>
+ 
+ <a href="https://github.com/anonim4ik/Project-manga-website/blob/AlbertEsenin-Trello-patch-1/%D0%9E%D0%A3%D0%952.jpg">Скриншот Trello 2</a>
