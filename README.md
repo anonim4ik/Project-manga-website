@@ -27,6 +27,8 @@
 
  * <a href="https://trello.com/b/Jvvy6W0j/mangawebsite">Ссылка на методику Agile (Trello)</a>
 
+ * <a href=" https://github.com/anonim4ik/Project-manga-website/tree/master/Agike">Ссылка на методику Agile (скриншоты)</a>
+
  * <a href="https://github.com/anonim4ik/anonim4ik.github.io">Ссылка на репризиторий сайта</a>
 
  * <a href="https://anonim4ik.github.io/#contact">Ссылка на сам сайт</a>
