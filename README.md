@@ -23,10 +23,10 @@
 
 # Прочее
 
- <a href="https://github.com/anonim4ik/Project-manga-website/blob/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-%D0%93%D0%B0%D0%BD%D1%82%D0%B0-patch-1/paBWJMdVD94.jpg">Диаграмма Гранта</a>
+ * <a href="https://github.com/anonim4ik/Project-manga-website/blob/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-%D0%93%D0%B0%D0%BD%D1%82%D0%B0-patch-1/paBWJMdVD94.jpg">Диаграмма Гранта</a>
 
- <a href="https://trello.com/b/Jvvy6W0j/mangawebsite">Ссылка на методику Agile (Trello)</a>
+ * <a href="https://trello.com/b/Jvvy6W0j/mangawebsite">Ссылка на методику Agile (Trello)</a>
 
-<a href="https://github.com/anonim4ik/anonim4ik.github.io/blob/master/index.html ">Ссылка на репризиторий сайта</a>
+ * <a href="https://github.com/anonim4ik/anonim4ik.github.io">Ссылка на репризиторий сайта</a>
 
-<a href="https://anonim4ik.github.io/#contact">Ссылка на сам сайт</a>
+ * <a href="https://anonim4ik.github.io/#contact">Ссылка на сам сайт</a>
