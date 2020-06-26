@@ -9,7 +9,7 @@
 
 2. <a href="https://github.com/anonim4ik/Project-manga-website/blob/anonim4ik-patch-1/2.Novelty%20and%20practical%20relevance.md">Новизна и практическая значимость</a>
 
-3. <a href="https://github.com/anonim4ik/Project-manga-website/blob/3.Our-advantages-over-competitors-path/3.Our%20advantages%20over%20competitors.md">Наши преимущества перед конкрентами</a>
+3. <a href="https://github.com/anonim4ik/Project-manga-website/blob/3.Our-advantages-over-competitors-path/3.Our%20advantages%20over%20competitors.md">Наши преимущества перед конкурентами</a>
 
 4. <a href="https://github.com/anonim4ik/Project-manga-website/blob/Our-team--path/Our%20team.md">Наша команда</a>
 
