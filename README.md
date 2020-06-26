@@ -1,15 +1,15 @@
-# Project-manga-website
+# Вебсайт Manga.Ru
 Репрозиторий для университетского проекта
  
 Пояснительная записка
 
-Пункты:
+# Пункты:
 
 1. <a href="https://github.com/anonim4ik/Project-manga-website/blob/1.Goals-and-objectives-patch/1.Goals%20and%20objectives.md">Цели и задачи нашего проекта</a>
 
 2. <a href="https://github.com/anonim4ik/Project-manga-website/blob/anonim4ik-patch-1/2.Novelty%20and%20practical%20relevance.md">Новизна и практическая значимость</a>
 
-3. <a href="https://github.com/anonim4ik/Project-manga-website/blob/3.Our-advantages-over-competitors-path/3.Our%20advantages%20over%20competitors.md">Наши преимущества перед конкрентами</a>
+3. <a href="https://github.com/anonim4ik/Project-manga-website/blob/3.Our-advantages-over-competitors-path/3.Our%20advantages%20over%20competitors.md">Наши преимущества перед конкурентами</a>
 
 4. <a href="https://github.com/anonim4ik/Project-manga-website/blob/Our-team--path/Our%20team.md">Наша команда</a>
 
@@ -21,6 +21,12 @@
 
 8. <a href="https://github.com/anonim4ik/Project-manga-website/blob/8.Study-Summary---path/8.Study%20Summary.md">Итоги исследования</a>
 
- <a href="https://github.com/anonim4ik/Project-manga-website/blob/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-%D0%93%D0%B0%D0%BD%D1%82%D0%B0-patch-1/paBWJMdVD94.jpg">Диаграмма Гранта</a>
+# Прочее
 
- <a href="https://trello.com/b/Jvvy6W0j/mangawebsite">Ссылка на методику Agile (Trello)</a>
+ * <a href="https://github.com/anonim4ik/Project-manga-website/blob/%D0%94%D0%B8%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B0-%D0%93%D0%B0%D0%BD%D1%82%D0%B0-patch-1/paBWJMdVD94.jpg">Диаграмма Гранта</a>
+
+ * <a href="https://trello.com/b/Jvvy6W0j/mangawebsite">Ссылка на методику Agile (Trello)</a>
+
+ * <a href="https://github.com/anonim4ik/anonim4ik.github.io">Ссылка на репризиторий сайта</a>
+
+ * <a href="https://anonim4ik.github.io/#contact">Ссылка на сам сайт</a>
