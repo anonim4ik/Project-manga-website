@@ -15,7 +15,7 @@
 
 5. <a href="https://github.com/anonim4ik/Project-manga-website/blob/5.-Our-business-plan-path/Our%20business%20plan.md">Наш бизнес-план</a>
 
-6. <a href="https://github.com/anonim4ik/Project-manga-website/blob/6.-The-audience-of-the-project-and-its-needs-path/6.%20The%20audience%20of%20the%20project%20and%20its%20needs.md">Аудитория проекта и ее потребности</a>
+6. <a href="https://github.com/anonim4ik/Project-manga-website/blob/6.-The-audience-of-the-project-and-its-needs-path-1/6.%20The%20audience%20of%20the%20project%20and%20its%20needs.md">Аудитория проекта и ее потребности</a>
 
 7. <a href="https://github.com/anonim4ik/Project-manga-website/blob/7.-Project-promotion-marketing-program---path/7.%20Project%20promotion%20marketing%20program.md">Маркетинговая программа по раскрутке проекта</a>
 
